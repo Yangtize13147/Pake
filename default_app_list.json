@@ -12,10 +12,22 @@
     "url": "https://twitter.com/"
   },
   {
+    "name": "v0dev",
+    "title": "v0.dev",
+    "name_zh": "v0.dev",
+    "url": "https://v0.dev/"
+  },
+  {
     "name": "liquidlabs",
     "title": "LiquidLabs",
     "name_zh": "LiquidLabs",
     "url": "https://playground.liquid.ai/"
+  },
+  {
+    "name": "boltnew",
+    "title": "boltnew",
+    "name_zh": "boltnew",
+    "url": "https://bolt.new/"
   },
   {
     "name": "youtube",
